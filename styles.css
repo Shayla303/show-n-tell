@@ -1,0 +1,119 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+ font-family: 'Arimo', sans-serif;
+ margin: 0;
+}
+
+header {
+  background-color: #bbbbbb;
+  height: 125px;
+}
+
+
+h1 {
+  color: #1481a7;
+  padding-top: 30px;
+  text-align: center;
+  margin: 0;
+  margin-left: 50px;
+}
+
+#animals {
+  float:right;
+  height: 100px;
+  margin-top: -20px;
+  margin-right: 18px;
+  width: 100px;
+}
+ul {
+  list-style: none;
+}
+img.media {
+  float:left;
+  font-size: 20px;
+  height: 65px;
+  width: 65px;
+  margin-left: 10px;
+  margin-top: -55px;
+}
+
+
+
+p {
+  color: white;
+  margin-left: 20px;
+  margin-top: 0;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+#LoLo {
+  border-radius: 300px;
+  height: 300px;
+  margin-left: 20px;
+  width: 300px;
+}
+
+.main-container {
+background-image: url("images/LoRocki.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+height: 1500px;
+width: auto;
+}
+
+ img {
+  border: 2px #bbbbbb solid;
+  border-radius: 300px;
+  height: 300px;
+  margin-left: 13px;
+  width: 300px;
+}
+
+#horsey, {
+  margin-top: 10px;
+}
+
+#bunny {
+  Float: center;
+}
+
+#tiger {
+  float: inherit;
+}
+
+#bluey
+#turtle,
+#toots,
+#turtle{
+margin-top: 15px;}
+
+#K9 {
+  margin-top: 100px;
+}
+
+#piggy {
+  float:right;
+  margin-right: 550px;
+  margin-top: 20px;
+}
+
+.survey-area {
+  border: 2px #bbbbbb solid;
+  color: #1481a7;
+  font-style: italic;
+  height: 175px;
+  margin-left: 60px;
+  margin-top: 50px;
+  padding-top: 10px;
+  width: 350px;
+}
+
+.button {
+  height: 40px;
+  width: 40px;
+  margin-left: 20px;
+}
